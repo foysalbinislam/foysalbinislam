@@ -1,1 +1,1 @@
-![Foysal Bin Islam, BSc Computer Science at Brunel University London](banner.svg)
+![Foysal Islam, BSc Computer Science at Brunel University London](sketch-banner-dark-v2.svg)
